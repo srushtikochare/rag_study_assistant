@@ -1,0 +1,15 @@
+# Backend
+backend/venv/
+backend/__pycache__/
+backend/.env
+backend/chroma_db/
+backend/data/
+backend/chat_history.json
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# General
+.DS_Store
+*.pyc
